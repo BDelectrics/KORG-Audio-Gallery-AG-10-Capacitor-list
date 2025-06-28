@@ -1,6 +1,8 @@
 # KORG Audio Gallery AG-10 Capacitor list
 This is a list of electrolytic capacitors for the KORG AG-10.
 
+![alt text](https://github.com/BDelectrics/KORG-Audio-Gallery-AG-10-Capacitor-list/blob/main/Images/AG10ov.jpg)
+
 The revision of my board is KLM-923-1S. Please add an issue if your board / capacitors differs from mine.
 The first table shows the details of every capacitor and the table at the bottoms is a summarized list to help you order the components.
 
@@ -55,3 +57,5 @@ Summarized list:
 | 220 | 25 | 5 mm pitch | THT Radial | 1 | 
 | 470 | 16 | 5 mm pitch | THT Radial | 1 | 
 | 2200 | 25 | 7,5 mm | THT Radial | 1 | 
+
+![alt text](https://github.com/BDelectrics/KORG-Audio-Gallery-AG-10-Capacitor-list/blob/main/Images/AG10.jpg)
