@@ -1,7 +1,8 @@
-# KORG-Audio-Gallery-AG-10-Capacitor-list
+# KORG Audio Gallery AG-10 Capacitor list
 This is a list of electrolytic capacitors for the KORG AG-10.
 
 The revision of my board is KLM-923-1S. Please add an issue if your board / capacitors differs from mine.
+The first table shows the details of every capacitor and the table at the bottoms is a summarized list to help you order the components.
 
 | Label | Capacitance (in uF) | Voltage | Size | Type | Info | 
 | --- | --- | --- | --- | --- | --- |
@@ -40,3 +41,17 @@ The revision of my board is KLM-923-1S. Please add an issue if your board / capa
 | C67 | 1 | 50 | 4 mm | SMD Aluminium Electrolytic Capacitor |  | 
 | C78 | 470 | 16 | 5 mm pitch | Radial Through Hole Aluminum Electrolytic Capacitor | TUWA M, 85 C° | 
 | C86 | 2200 | 25 | 7,50 mm pitch | Radial Through Hole Aluminum Electrolytic Capacitor | ELNA RE2, 85 C° | 
+
+Summarized list:
+| Capacitance (in uF) | Voltage | Size | Type | Pcs | 
+| --- | --- | --- | --- | --- |
+| 0,33 | 50 | 4 mm | SMD | 1 | 
+| 1 | 50 | 4 mm | SMD | 3 | 
+| 10 | 25 | 5 mm | SMD | 17 | 
+| 22 | 25 | 6,3 mm | SMD | 4 | 
+| 47 | 16 | 6,3 mm | SMD | 2 | 
+| 100 | 6,3 | 6,3 mm | SMD | 3 | 
+| 100 | 25 | 8 mm | SMD | 2 | 
+| 220 | 25 | 5 mm pitch | THT Radial | 1 | 
+| 470 | 16 | 5 mm pitch | THT Radial | 1 | 
+| 2200 | 25 | 7,5 mm | THT Radial | 1 | 
