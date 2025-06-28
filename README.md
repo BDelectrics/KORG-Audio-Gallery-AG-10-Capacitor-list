@@ -6,11 +6,9 @@ The revision of my board is KLM-923-1S. Please add an issue if your board / capa
 | Label | Capacitance (in uF) | Voltage | Size | Type | Info | 
 | --- | --- | --- | --- | --- | --- |
 | C1 | 10 | 25 | 5 mm | SMD Aluminium Electrolytic Capacitor |  | 
-| --- | --- | --- | --- | --- | --- |
 | C2 | 10 | 25 | 5 mm | SMD Aluminium Electrolytic Capacitor |  | 
-| --- | --- | --- | --- | --- | --- |
 | C3 | 100 | 6,3 | 6,3 mm | SMD Aluminium Electrolytic Capacitor |  | 
-| --- | --- | --- | --- | --- | --- |
+
 | C4 | 100 | 6,3 | 6,3 mm | SMD Aluminium Electrolytic Capacitor |  | 
 | --- | --- | --- | --- | --- | --- |
 | C5 | 10 | 25 | 5 mm | SMD Aluminium Electrolytic Capacitor |  | 
